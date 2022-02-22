@@ -17,6 +17,7 @@ public class StatisticsServiceTest {
 
         assertEquals(expected, actual);
     }
+
     @Test
     void findMaxFromMin() {
         ru.netology.statistic.StatisticsService service = new ru.netology.statistic.StatisticsService();
