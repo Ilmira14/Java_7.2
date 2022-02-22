@@ -17,7 +17,11 @@ public class StatisticsServiceTest {
 
         assertEquals(expected, actual);
     }
+<<<<<<< HEAD:src/test/java/ru/netology/statistic/StatisticsServiceTest.java
 
+=======
+    
+>>>>>>> 84677876589d0f920e8b8f7007f9bb156243f134:src/test/java/ru/netology/StatisticsServiceTest.java
     @Test
     void findMaxFromMin() {
         ru.netology.statistic.StatisticsService service = new ru.netology.statistic.StatisticsService();
